@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition ="always right"
 
 //////////////////PROBLEM 2////////////////////
 /*

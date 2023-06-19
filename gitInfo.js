@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-let gitDefinition ="always right"
+let gitDefinition ="system software for coding"
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -19,7 +19,7 @@ let gitDefinition ="always right"
 */
 
 //CODE HERE
-
+let gitHubDefinition = "Collaboration platform for software developers"
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -27,7 +27,7 @@ let gitDefinition ="always right"
 */
 
 //CODE HERE
-
+let gitInitDefinition = "creates a new git repository"
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,7 +35,7 @@ let gitDefinition ="always right"
 */
 
 //CODE HERE
-
+let gitCloneDefinition = "Clogne repository"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -43,7 +43,7 @@ let gitDefinition ="always right"
 */
 
 //CODE HERE
-
+let gitStatusDefinition = "Displays the state of the working directory"
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -54,7 +54,7 @@ let gitDefinition ="always right"
 */
 
 //CODE HERE
-
+let gitAddDefinition = "makes changes in the working directory"
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,7 +65,7 @@ let gitDefinition ="always right"
 */
 
 //CODE HERE
-
+let gitCommitDefinition = "captures snapshot of project"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -74,3 +74,4 @@ let gitDefinition ="always right"
 */
 
 //CODE HERE
+let gitPushDefinition = "uploads content to a remote repository"
